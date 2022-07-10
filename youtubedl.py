@@ -8,8 +8,8 @@ banner = """
 ╚═╝
 
      [!] Youtube-Download V.1
-     [!] By : 4NDR0 R4T
-     [!] www.hidayatcode.com
+     [!] By : X3NUX
+     [!] www.niasxploit.com
 """
 print(banner)
 x = input("Masukan Link Playlist Anda: ")
