@@ -39,13 +39,7 @@ Pilih opsi
 * Gunakan VPN jika mengalami pemblokiran
 * File akan tersimpan di folder aktif terminal
 
-🤝 Kontribusi
-Pull request dipersilakan! Untuk perubahan besar, buka issue terlebih dahulu.
 
 📜 Lisensi
-
-MIT © 2023 IZUMY
-
-License 
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?logo=github)](https://github.com/hidayat-tanjung/youtube-dwonload/)
