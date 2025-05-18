@@ -1,22 +1,22 @@
 # 🎬 YouTube Downloader Pro
 ![carbon](https://github.com/user-attachments/assets/d49c1a6e-e8a7-470e-aac5-91eef25785e8)
 
-## 🌟 Fitur Utama
-- ✅ Download video MP4 (720p/1080p)
-- ✅ Konversi ke MP3 (kualitas 320kbps)
-- ✅ Support playlist lengkap dengan penomoran otomatis
-- 🎨 Tampilan terminal berwarna interaktif
-- ⚡ Menggunakan yt-dlp (lebih cepat dari youtube-dl)
-- 📁 Auto-deteksi dependensi
+## 🌟 Key Features
+- ✅ Download MP4 videos (720p/1080p)
+- ✅ Convert to MP3 (320kbps quality)
+- ✅ Full playlist support with automatic numbering
+- 🎨 Interactive colored terminal display
+- ⚡ Using yt-dlp (faster than youtube-dl)
+- 📁 Auto-detect dependencies
 
-## 🛠 Instalasi
+## 🛠 Instalasion
 
-### Persyaratan Sistem
+### System Requirements
 - Python 3.6+
-- FFmpeg (untuk konversi audio)
+- FFmpeg (for audio conversion)
 
-### Cara Install
-1. Clone repo ini:
+### How to Install
+1. Clone this repo:
 ```console
 git clone https://github.com/hidayat-tanjung/youtube-dwonload.git
 cd youtube-downloader
@@ -24,20 +24,20 @@ pip install -r requirements.txt
 pip install yt-dlp ffmpeg-python colorama
 ```
 
-## 🚀 Penggunaan
+## 🚀 How to use
 ```console
 python youtubedl.py
 ```
-Pilih opsi 
-* Video MP4 (1080p)
-* Video MP4 (720p)
-* Audio MP3 (320kbps)
-* Download seluruh playlist
-
-## 📝 Catatan
-* Untuk resolusi 4K, tambahkan flag `-f "bestvideo[height<=2160]+bestaudio"`
-* Gunakan VPN jika mengalami pemblokiran
-* File akan tersimpan di folder aktif terminal
+Select an option 
+* MP4 videos (1080p)
+* MP4 videos (720p)
+* MP3 audio (320kbps)
+* Download the entire playlist
+  
+## 📝 Notes
+* For 4K resolution, add the flag `-f "bestvideo[height<=2160]+bestaudio"`
+* Use VPN if you experience blocking
+* The file will be saved in the terminal's active folder.
 
 
 📜 Lisensi
