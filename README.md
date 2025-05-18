@@ -26,7 +26,7 @@ pip install yt-dlp ffmpeg-python colorama
 
 ## 🚀 Penggunaan
 ```console
-python yt_downloader.py
+python youtubedl.py
 ```
 Pilih opsi 
 * Video MP4 (1080p)
